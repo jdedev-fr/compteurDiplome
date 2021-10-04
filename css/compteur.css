@@ -25,6 +25,7 @@ h1,.grid,p {
 background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 background-clip: text;
+-webkit-background-clip: text;
 }
 p {
     font-size: 2vw;
